@@ -39,3 +39,44 @@ c:\users\user\documents\visual studio 2015\Projects\StudentsAPI\StudentsAPI\bin\
 c:\users\user\documents\visual studio 2015\Projects\StudentsAPI\StudentsAPI\obj\Debug\StudentsAPI.dll
 c:\users\user\documents\visual studio 2015\Projects\StudentsAPI\StudentsAPI\obj\Debug\StudentsAPI.pdb
 C:\Users\user\Documents\Visual Studio 2015\Projects\StudentsAPI\StudentsAPI\obj\Debug\StudentsAPI.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\csc.exe
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\vbc.exe
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\StudentsAPI.dll.config
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\StudentsAPI.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\StudentsAPI.pdb
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Http.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Razor.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Webpages.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Razor.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Webpages.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Http.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\obj\Debug\StudentsAPI.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\obj\Debug\StudentsAPI.dll
+C:\Users\user\Documents\GitHub\APILelakiTampan\StudentsAPI\StudentsAPI\obj\Debug\StudentsAPI.pdb
